@@ -1,4 +1,4 @@
-# Ejercicio: Sistema de Ges1ón de Vehículos
+# Ejercicio: Sistema de Gestión de Vehículos
 Imagina que estás desarrollando un sistema de ges1ón de vehículos que debe manejar
 diferentes 1pos de vehículos, como automóviles y motocicletas. Los vehículos 1enen
 caracterís1cas comunes como número de ruedas, marca y modelo, pero también 1enen
